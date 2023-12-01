@@ -65,6 +65,7 @@
                 <ul>
                     <li><a href="produk.php">Produk</a></li>
                     <li><a href="profil-pembeli.php">Profil</a></li>
+                    <li><a href="logout-customer.php">Keluar</a></li>
                 </ul>
         </div>
             </header>
